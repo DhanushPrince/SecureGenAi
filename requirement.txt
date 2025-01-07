@@ -1,0 +1,8 @@
+streamlit
+faiss-cpu  # Use 'faiss-windows' for Windows compatibility
+torch
+transformers
+pymupdf  # For 'fitz'
+groq
+pandas
+duckduckgo-search
